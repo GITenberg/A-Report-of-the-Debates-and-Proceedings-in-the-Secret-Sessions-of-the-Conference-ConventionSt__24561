@@ -1,0 +1,34 @@
+_repo: A-Report-of-the-Debates-and-Proceedings-in-the-Secret-Sessions-of-the-Conference-ConventionSt__24561
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chittenden, L. E. (Lucius Eugene)
+    alias: Chittenden, Lucius Eugene
+    birthdate: 1824
+    deathdate: 1900
+    gutenberg_agent_id: '26582'
+    url: http://www.gutenberg.org/2009/agents/26582
+    wikipedia: http://en.wikipedia.org/wiki/Lucius_E._Chittenden
+description: ''
+gutenberg_bookshelf:
+- US Civil War
+- United States
+gutenberg_issued: '2008-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Conference Convention (1861 : Washington, D.C.)'
+- !lcsh 'United States -- Politics and government -- 1857-1861'
+title: "A Report of the Debates and Proceedings in the Secret Sessions of the Conference\
+  \ Convention\r\nFor Proposing Amendments to the Constitution of the United States,\
+  \ Held at Washington, D.C., in February, A.D. 1861"
+url: http://www.gutenberg.org/ebooks/24561
