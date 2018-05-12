@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26582
     wikipedia: http://en.wikipedia.org/wiki/Lucius_E._Chittenden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24561#A-Report-of-the-Debates-and-Proceedings-in-the-Secret-Sessions-of-the-Conference-ConventionSt_
 gutenberg_bookshelf:
 - US Civil War
 - United States
